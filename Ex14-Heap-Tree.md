@@ -39,7 +39,8 @@ heapify(array,size,i);
 ```
 
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/02baf375-7801-479a-b5cc-00d6966e6e26)
+
 
 ## Result:
 Thus, the function to delete an element in a Heap Tree is implemented successfully.
